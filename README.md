@@ -33,3 +33,5 @@ As an user I would like to have a tool that allows me to create and manage impor
     > You can download Postman [here](https://www.postman.com/)
 
     > [Here's](https://kb.datamotion.com/?ht_kb=postman-instructions-for-exporting-and-importing) a help link explaining how to import a Postman collection.
+
+    > This Postman Collection uses [MockAPI](https://mockapi.io/) as the mock server.
