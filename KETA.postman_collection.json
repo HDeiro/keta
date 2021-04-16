@@ -82,13 +82,13 @@
 					"mode": "urlencoded",
 					"urlencoded": [
 						{
-							"key": "name",
-							"value": "John Doe",
+							"key": "title",
+							"value": "That's my first ToDo",
 							"type": "text"
 						},
 						{
 							"key": "content",
-							"value": "I want to join WEX!",
+							"value": "Hey, I'm a test content. :)",
 							"type": "text"
 						}
 					]
